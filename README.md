@@ -1,1 +1,1 @@
-Códigos de modelos de trayectoria de estaciones GNSS escritos en python con datos obtenidos de Nevada Geodetic Laboratory # Geodesia
+Códigos de modelos de trayectoria de estaciones GNSS escritos en python con datos obtenidos de Nevada Geodetic Laboratory. Las estaciones seleccionadas están ubicadas en Chile, cercanas a Illapel con el fin de estudiar la deformación ocurrida durante el terremoto de Illapel 2015 # Geodesia
